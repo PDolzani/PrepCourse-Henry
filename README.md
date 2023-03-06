@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del Modulo 2 del PrepCourse Henry
+Patricio Dolzani
+Este repositorio es una prueba de como crear un repositorio y clonarlo con gibhub en nuestro ordenador
